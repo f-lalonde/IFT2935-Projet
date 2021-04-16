@@ -26,7 +26,28 @@ begin transaction;
     select matricule, nom_personne, courriel_personne, faculte
     from busy_profs_faculte natural join infos;
 
-
+    with stages_5ans as (select id_entreprise, matricule_etudiant from stage_1
+        where date_debut > 2016-01-01),
+    with etudiants_chimie as (select matricule from etudiant_1
+        where programme = "Chimie"),
+    with stages_etudiants_chimie as (select id_entreprise, matricule_etudiant
+        from stages_5ans natural join etudiants_chimie),
+    with nb_stagiaires as (select id_entreprise,
+        count(matricule_etudiant) as nb_etudiants from stages_etudiants_chimie
+        group by id_entreprise),
+    with id_entreprises as (select id_entreprise from nb_stagiaires
+        where nb_etudiants >= 2),
+    with infos_entreprise as (select id_entreprise, nom_entreprise,
+        courriel_entreprise from entreprise),
+    with codes_id as (select id_entreprise, code_postal from adresses),
+    with codes_quebec as (select code_postal from code_postal where
+        province = "QC"),
+    with id_quebec as (select id_entreprise from codes natural
+        join codes_quebec),
+    with infos_quebec as (select id_entreprise, nom_entreprise,
+        courriel_entreprise from infos_entreprise natural join id_quebec),
+    select id_entreprise, nom_entreprise, courriel_entreprise from infos_quebec
+    natural join id_entreprises);
 
 
     commit;

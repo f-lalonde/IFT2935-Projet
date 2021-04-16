@@ -47,7 +47,7 @@ begin transaction;
     with infos_quebec as (select id_entreprise, nom_entreprise,
         courriel_entreprise from infos_entreprise natural join id_quebec),
     select id_entreprise, nom_entreprise, courriel_entreprise from infos_quebec
-    natural join id_entreprises);
+    natural join id_entreprises;
 
 
     commit;

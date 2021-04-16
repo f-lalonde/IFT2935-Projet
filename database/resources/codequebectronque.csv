@@ -1,0 +1,1882 @@
+G0A1A0;Sainte-Christine-D Auvergne
+G0A1A1;Saint-Alban
+G0A1B0;Baie-St-Paul
+G0A1C0;Basilique-Ste-Anne
+G0A1E0;BEAUPORT
+G0A1G0;Val-Belair
+G0A1H0;Boischatel
+G0A1J0;Bon Pasteur
+G0A1K0;Cap-Rouge
+G0A1L0;Cap-Santé
+G0A1M0;Casey
+G0A1N0;Château-Richer
+G0A1P0;Clova
+G0A1R0;Courcelette
+G0A1S0;Deschambault
+G0A1T0;Donnacona
+G0A1V0;Duchesnay
+G0A1W0;Grondines
+G0A1X0;Lac-Beauport
+G0A1Y0;Jacques-Cartier
+G0A1Z0;Kiskissink
+G0A2A0;La Baleine
+G0A2B0;Lac-Aux-Brochets
+G0A2E0;Lac-Des-Sept-Iles
+G0A2G0;Lac-Edouard
+G0A2H0;Lac-St-Charles
+G0A2J0;Sainte-Catherine-De-La-Jacques-Cartier
+G0A2K0;L Ange Gardien
+G0A2L0;Petite-Rivière-Saint-François
+G0A2M0;LES ÉbouLEMENTS
+G0A2N0;Les Ecureuils
+G0A2P0;Mont-Apica
+G0A2R0;Neuville
+G0A2S0;Notre-Dame-Des-Laurentides
+G0A2T0;Oskelaneo
+G0A2V0;Parent
+G0A2W0;Plage Germain
+G0A2X0;Pont-Rouge
+G0A2Y0;Portneuf
+G0A3A0;RIVIÈRE-VERTE
+G0A3C0;Sainte-Anne-De-Bellevue
+G0A3E0;St-Augustin-De-Quebec
+G0A3G0;Saint-Basile
+G0A3H0;St-Basile-Station
+G0A3J0;Saint-Bernard-Sur-Mer
+G0A3K0;Sainte-Brigitte-De-Laval
+G0A3L0;Saint-Casimir
+G0A3N0;St-Emile-De-Quebec
+G0A3P0;Sainte-Famille
+G0A3R0;SAINT-PIERRE-LES-BECQUETS
+G0A3S0;Saint-François-D ORLÉANS
+G0A3T0;Saint-Gilbert
+G0A3V0;Saint Hilarion
+G0A3W0;SAINT-François-D ORLÉANS
+G0A3X0;St-Joachim-De-Montmorency
+G0A3Y0;Les Éboulements
+G0A3Z0;SAINT-LAURENT NORD
+G0A4A0;SAINT-LEONARD-PARENT
+G0A4B0;SAINT-ROCH-DES-AULNAIES
+G0A4C0;SAINT-PATRICE
+G0A4E0;Saint-Pierre-Ile-D Orleans
+G0A4G0;Saint-Raymond
+G0A4H0;Saint-Thuribe
+G0A4J0;Saint-Tite-Des-Caps
+G0A4K0;Saint-Urbain-De-Charlevoix
+G0A4L0;Saint-Ubalde
+G0A4M0;Weymontachie
+G0A4N0;Shannon
+G0A4P0;Lac-Delage
+G0A4R0;Triton Fishing Club
+G0A4S0;Saint-Gabriel-De-Valcartier
+G0A4T0;Val-St-Michel
+G0A4V0;Wendake
+G0A4W0;Valcartier
+G0A5A0;Baie St-Paul
+G0A8E0;Wemotaci
+G0B1A0;Bassin
+G0B1B0;Cap-Aux-Meules
+G0B1C0;Entry Island
+G0B1E0;L Etang-Du-Nord
+G0B1G0;Fatima
+G0B1H0;Grande-Entree
+G0B1J0;Havre-Aubert
+G0B1K0;Havre-Aux-Maisons
+G0B1L0;La Verniere
+G0B1M0;Leslie
+G0B1N0;Millerand
+G0B1P0;Pointe-Aux-Loups
+G0C1A0;Barachois
+G0C1B0;Biron
+G0C1C0;Black Cape
+G0C1E0;Bonaventure
+G0C1G0;Cap-D Espoir
+G0C1H0;Caplan
+G0C1J0;Carleton
+G0C1K0;Chandler
+G0C1L0;Pointe-A-La-Croix
+G0C1M0;Douglastown
+G0C1N0;Escuminac
+G0C1P0;Gascons
+G0C1R0;Gaspé
+G0C1S0;Gaspé Harbour
+G0C1T0;ARCADIA
+G0C1V0;Grande-Rivière
+G0C1W0;Grande-Riviere-Ouest
+G0C1X0;L Alverne
+G0C1Y0;Maria
+G0C1Z0;New Carlisle
+G0C2A0;Newport
+G0C2B0;New Richmond
+G0C2C0;New Richmond Station
+G0C2E0;Nouvelle
+G0C2H0;Pabos
+G0C2J0;Pabos Mills
+G0C2K0;Hope
+G0C2L0;Perce
+G0C2M0;POINTE CLAIRE
+G0C2N0;Port-Daniel
+G0C2P0;Port Venier
+G0C2R0;Listuguj
+G0C2S0;Riviere-Paspebiac
+G0C2T0;Ruisseau-Leblanc
+G0C2V0;Saint-Alphonse-De-Caplan
+G0C2W0;Saint-Elzear-De-Bonaventure
+G0C2X0;Saint-Georges-De-Malbaie
+G0C2Y0;Saint-Jogues
+G0C2Z0;Saint-Omer
+G0C3A0;Saint-Simeon-De-Bonaventure
+G0C3B0;Sainte-Therese-De-Gaspé
+G0C3C0;Saint-Godefroi
+G0C3E0;Shigawake
+G0C3G0;Val-D Espoir
+G0E1A0;Anse-Au-Griffon
+G0E1B0;Anse-Ste-Anne-Des-Monts
+G0E1C0;Cap-Au-Renard
+G0E1E0;Cap-Des-Rosiers
+G0E1G0;Cloridorme
+G0E1H0;Fontenelle
+G0E1J0;Forillon
+G0E1K0;GRAND VALLEY
+G0E1L0;Gros-Morne
+G0E1M0;L Anse-A-Valleau
+G0E1N0;L Echouerie
+G0E1P0;Madeleine-Centre
+G0E1R0;Manche-D Epee
+G0E1S0;Marsoui
+G0E1T0;Mont-Louis
+G0E1V0;Mont-Saint-Pierre
+G0E1W0;Murdochville
+G0E1X0;Petit-Cap
+G0E1Y0;Petite-Vallee
+G0E1Z0;Riviere-A-Claude
+G0E2A0;Riviere-Au-Renard
+G0E2B0;Riviere-Madeleine
+G0E2C0;PRINCESS HARBOUR
+G0E2G0;Sainte-Anne-Des-Monts
+G0E2H0;Martin River
+G0E2J0;Tourelle
+G0E2K0;Ste-Anne-Des-Monts
+G0G0A6;
+G0G1A0;Aguanish
+G0G1B0;Baie-Johan-Beetz
+G0G1C0;Blanc-Sablon
+G0G1E0;Brador
+G0G1G0;Chevery
+G0G1H0;Clarke City
+G0G1J0;Fermont
+G0G1K0;Gagnon
+G0G1L0;Gallix
+G0G1M0;Gethsemani
+G0G1N0;Harrington Harbour
+G0G1P0;Havre-Saint-Pierre
+G0G1R0;L Ile-Michon
+G0G1S0;Kegaska
+G0G1T0;La Tabatiere
+G0G1V0;Longue-Pointe-De-Mingan
+G0G1W0;Lourdes-De-Blanc-Sablon
+G0G1X0;Magpie
+G0G1Y0;Massey Park
+G0G1Z0;Middle Bay
+G0G2A0;Mingan
+G0G2B0;Moisie
+G0G2C0;Mutton Bay
+G0G2E0;Natashquan
+G0G2G0;Old Fort Bay
+G0G2H0;Point-Parent
+G0G2J0;Port-Cartier
+G0G2K0;Port-Cartier-Ouest
+G0G2L0;Riviere-Au-Tonnerre
+G0G2M0;Riviere-Brochu
+G0G2N0;Riviere-Saint-Jean
+G0G2P0;Riviere-Saint-Paul
+G0G2R0;Saint-Augustin-Saguenay
+G0G2S0;Salmon Bay
+G0G2T0;Schefferville
+G0G2V0;Sheldrake
+G0G2W0;Tete-A-La-Baleine
+G0G2X0;De Grasse
+G0G2Y0;Port-Menier
+G0G2Z0;Kawawachikamach
+G0H1A0;BIENFAIT
+G0H1B0;Betsiamites
+G0H1C0;Chute-Aux-Outardes
+G0H1E0;Franquelin
+G0H1G0;Godbout
+G0H1H0;Les Buissons
+G0H1J0;Manicouagan
+G0H1K0;Manic Trois
+G0H1L0;Micoua
+G0H1M0;Pointe-Aux-Outardes
+G0H1N0;Pointe-Lebel
+G0H1P0;Colombier
+G0H1R0;Riviere-Pentecote
+G0H1S0;Ragueneau
+G0H1T0;Baie-Comeau
+G0J1A0;Albertville
+G0J1B0;Amqui
+G0J1C0;Baie-Des-Sables
+G0J1E0;Cap-Chat
+G0J1G0;Cap-Chat-Est
+G0J1H0;Capucins
+G0J1J0;Causapscal
+G0J1K0;Grosses-Roches
+G0J1L0;Mont-Joli
+G0J1M0;Lac-Au-Saumon
+G0J1N0;Saint-Zénon-Du-Lac-Humqui
+G0J1P0;L ASSOMPTION
+G0J1R0;L Ascension-De-Patapedia
+G0J1S0;Metis Beach
+G0J1T0;ILE DES CHENES
+G0J1V0;MONT-APICA
+G0J1X0;Padoue
+G0J1Y0;Petit-Matane
+G0J1Z0;Price
+G0J2A0;Routhierville
+G0J2B0;Saint-Adelme
+G0J2C0;Saint-Alexandre-Des-Lacs
+G0J2E0;Saint-Alexis-De-Matapédia
+G0J2G0;Saint-Andre-De-Restigouche
+G0J2H0;SAINTE-ANGÎle-DE-MONNOIR
+G0J2J0;SAINT-ALEXIS-DE-MATAPÉDIA
+G0J2K0;Sainte-FÉLICITÉ
+G0J2L0;Sainte-Flavie
+G0J2M0;Sainte-Florence
+G0J2N0;SAINTE-FRANCOISE
+G0J2P0;Ste-Irène-De-Matapédia
+G0J2R0;Saint-Jean-De-Cherbourg
+G0J2S0;St-Jean-De-Matapedia
+G0J2T0;Ste-Jeanne-D Arc-De-Matane
+G0J2V0;Saint-Leandre
+G0J2W0;Saint-Basile-Le-Grand
+G0J2X0;Matane
+G0J2Y0;Sainte-Marguerite-Marie
+G0J2Z0;Saint-Moise
+G0J3A0;Saint-Noel
+G0J3B0;St-Octave
+G0J3C0;Sainte-Paule
+G0J3E0;SAINT-JEAN-DE-MATHA
+G0J3G0;Saint-Tharcisius
+G0J3H0;Saint-Ulric
+G0J3J0;Saint-Vianney
+G0J3K0;Sayabec
+G0J3L0;Val-Brillant
+G0J3N0;Saint-Cleophas
+G0K1A0;Esprit-Saint
+G0K1B0;SAINTE-ANNE-DES-MONTS
+G0K1C0;Les Hauteurs
+G0K1E0;Luceville
+G0K1G0;Pointe-Au-Pere
+G0K1H0;Pointe-Au-Père
+G0K1J0;Sainte-Blandine
+G0K1K0;Saint-Charles-Garnier
+G0K1L0;Saint-Pascal
+G0K1M0;Saint-Gabriel-De-Rimouski
+G0K1N0;St-Gabriel-Est
+G0K1P0;Sainte-Luce
+G0K1R0;Saint-Marcellin
+G0K1S0;Rimouski
+G0K1T0;Biencourt
+G0K1V0;Lac-Des-Aigles
+G0K1W0;Saint-Guy
+G0K4K0;Saint-Gabriel
+G0L0K0;St-Gabriel-De-Kamouraska
+G0L1A0;Auclair
+G0L1B0;Le Bic
+G0L1E0;Cabano
+G0L1G0;Cacouna
+G0L1H0;Degelis
+G0L1J0;Sully
+G0L1K0;Rang-Saint-David
+G0L1L0;L Isle-Verte-Ouest
+G0L1M0;Kamouraska
+G0L1P0;Saint-Antonin
+G0L1R0;Lamy
+G0L1S0;Lejeune
+G0L1T0;St-Marc-Du-Lac Long
+G0L1V0;LOST RIVER
+G0L1W0;Mont-Carmel
+G0L1X0;Notre-Dame-Du-Lac
+G0L1Y0;Notre-Dame-Du-Portage
+G0L1Z0;Packington
+G0L2A0;Pointe-Riviere-Du-Loup
+G0L2B0;Rivière-Bleue
+G0L2C0;Rivière-Ouelle
+G0L2E0;Trois-Pistoles
+G0L2G0;Saint-Alexandre-De-Kamouraska
+G0L2H0;Saint-Germain
+G0L2K0;Saint Marys
+G0L2L0;St-Athanase
+G0L2M0;Saint-Bruno-De-Kamouraska
+G0L2N0;Saint-Clement
+G0L2P0;Saint-Cyprien
+G0L2R0;Saint-Denis-De-La-Bouteillerie
+G0L2S0;St-Denis-Sur-Mer
+G0L2T0;Saint-Eleuthere
+G0L2V0;Saint-Eloi
+G0L2X0;Saint-Epiphane
+G0L2Y0;Saint-Eusebe
+G0L2Z0;Saint-Fabien
+G0L3A0;St-Fabien-Sur-Mer
+G0L3B0;Sainte-Francoise
+G0L3C0;Saint-Francois-Xavier-De-Viger
+G0L3H0;St-Guy
+G0L3J0;SAINT-JOSEPH-DE-KAMOURASKA
+G0L3K0;SAINT-BRUNO-DE-KAMOURASKA
+G0L3L0;Saint-Hubert-Rivière-Du-Loup
+G0L3M0;Saint-Jean-De-Dieu
+G0L3N0;St-Jean-De-La-Lande
+G0L3P0;Saint-Joseph-De-Kamouraska
+G0L3R0;SAINT-SIMEON
+G0L3S0;Saint-Louis-Du-Ha-Ha
+G0L3T0;Saint-Mathieu-De-Rioux
+G0L3V0;Saint-Medard
+G0L3W0;Saint-Modeste
+G0L3X0;Saint-Pacome
+G0L4A0;SAINT-PHILIPPE
+G0L4B0;Saint-Pierre-De-Lamy
+G0L4C0;Saint-Simon-De-Rimouski
+G0L4E0;Bic
+G0L4G0;Sainte-Rita
+G0L4H0;Squatec
+G0M1A0;Beauceville-Ouest
+G0M1B0;Saint-Martin
+G0M1C0;Courcelles
+G0M1E0;St-Jean-De-La-Lande-De-Beauce
+G0M1G0;La Guadeloupe
+G0M1H0;Lambton
+G0M1J0;SAINT-ELIE
+G0M1K0;Notre-Dame-Des-Pins
+G0M1L0;Saint-Alfred
+G0M1M0;Sainte-Aurélie
+G0M1N0;Saint-Benjamin
+G0M1P0;Saint-Benoît-Labre
+G0M1R0;Saint-Ephrem-De-Beauce
+G0M1S0;SAINTE-MARIE-DE-BLANDFORD
+G0M1T0;Saint Gédéon
+G0M1W0;Saint-Ludger
+G0M1X0;Saint-Philibert
+G0M1Y0;Saint-Prosper-De-Dorchester
+G0M1Z0;SAINT-ADRIEN
+G0M2A0;Saint-Theophile
+G0M2B0;Saint-Victor
+G0M2C0;Saint-Zacharie
+G0M2E0;Saint-Robert-Bellarmin
+G0N1A0;Black Lake
+G0N1B0;Saint-Joseph-De-Coleraine
+G0N1C0;Sainte-Clotilde-De-Beauce
+G0N1E0;ADMIRAL
+G0N1G0;East Broughton
+G0N1J0;Saint-Jacques-De-Leeds
+G0N1K0;Kinnear s Mills
+G0N1L0;Robertsonville
+G0N1M0;Saint-Adrien-D Irlande
+G0N1N0;Saint-Ferdinand
+G0N1P0;Saint-Frederic
+G0N1R0;Saint-Jules
+G0N1S0;Adstock
+G0N1T0;Saint-Pierre-De-Broughton
+G0N1V0;SAINT-EPHREM-DE-BEAUCE
+G0N1W0;Sacre-Coeur-De-Marie-Partie-S
+G0N1X0;Tring-Jonction
+G0N2E0;Thetford-Mines
+G0P1A0;Ham-Nord
+G0P1B0;Norbertville
+G0P1C0;Notre-Dame-De-Ham
+G0P1E0;Princeville
+G0P1G0;Saint-Fortunat
+G0P1H0;Sainte-Helene-De-Chester
+G0P1J0;Chesterville
+G0P1K0;Saint-Pierre-Baptiste
+G0P1L0;Sainte-Sophie-D Halifax
+G0P1M0;Kirouac
+G0P1M5;Victoriaville
+G0R1A0;Armagh
+G0R1A1;Saint-Charles-De-Bellechasse
+G0R1B0;Saint-Cyprien-Des-Etchemins
+G0R1C0;Beaumont
+G0R1E0;Berthier
+G0R1G0;Buckland
+G0R1H0;Cap-Saint-Ignace
+G0R1J0;Cap-St-Ignace-Station
+G0R1K0;Daaquam
+G0R1L0;Saint-Luc-De-Bellechasse
+G0R1M0;Ste-Marguerite-De-Dorchester
+G0R1N0;Lac-Trois-Saumons
+G0R1P0;L Isle-Aux-Grues
+G0R1S0;Lac Etchemin
+G0R1T0;LAFONTAINE
+G0R1W0;La Durantaye
+G0R1X0;Lamartine
+G0R1Y0;Sainte-Justine
+G0R1Z0;LA PATRIE
+G0R2A0;La Pocatiere-Station
+G0R2C0;L Isletville
+G0R2E0;St.-Bernard
+G0R2G0;Morigeau
+G0R2H0;Notre-Dame-Du-Rosaire
+G0R2K0;Pintendre
+G0R2M0;Saint-Adalbert
+G0R2N0;St-Anselme
+G0R2P0;Sainte-Apolline-De-Patton
+G0R2S0;Saint-Camille-De-Bellechasse
+G0R2V0;Sainte-Claire
+G0R2X0;Saint-Damase-Des-Aulnaies
+G0R2Y0;Saint-Damien-De-Buckland
+G0R2Z0;SAINTE-SOPHIE
+G0R3A0;ST-FRANCOIS-DE-LAVAL
+G0R3A6;St-Nazaire-De-Buckland
+G0R3B0;Ste-Germaine-Station
+G0R3C0;Saint-Gervais
+G0R3E0;Saint-Henri-De-Lévis
+G0R3G0;Saint-Jean-Port-Joli
+G0R3H0;Saint-Just-De-Bretenières
+G0R3J0;Saint-Lazare-De-Bellechasse
+G0R3K0;Sainte-Louise
+G0R3L0;Sainte-Lucie-De-Beauregard
+G0R3M0;Saint-Magloire
+G0R3N0;Saint-Malachie
+G0R3P0;St-Malachie-Station
+G0R3R0;St-Marcel-De-L Islet
+G0R3S0;Saint-Michel-De-Bellechasse
+G0R3W0;ST PONS
+G0R3X0;Saint-Pamphile
+G0R3Y0;Saint-Paul-De-Montminy
+G0R3Z0;Sainte-Perpétue-De-L Islet
+G0R4A0;Saint-Philemon
+G0R4B0;Saint-Patrice-De-La-Rivière-Du-Loup
+G0R4C0;SAINT PAUL
+G0R4E0;Saint-Roch-Des-Aulnaies
+G0R4G0;Sainte-Rose-De-Watford
+G0R4H0;Sainte-Sabine-De-Bellechasse
+G0R4J0;Saint-Vallier
+G0R4K0;Sanatorium-Begin
+G0R4L0;Standon
+G0R4M0;Tourville
+G0R4N0;Village-Des-Aulnaies
+G0R4P0;SAINTE-FÉLICITÉ
+G0R4R0;Saint-Omer-L Islet
+G0S1A0;Beauceville-Est
+G0S1B0;Sainte Anne
+G0S1C0;Bernieres
+G0S1E0;Sainte-Helene-De-Breakeyville
+G0S1G0;Deschaillons-Sur-Saint-Laurent
+G0S1H0;Dosquet
+G0S1J0;Fortierville
+G0S1K0;Inverness
+G0S1L0;Issoudun
+G0S1M0;Joly
+G0S1N0;Laurier-Station
+G0S1P0;Laurierville
+G0S1R0;Leclercville
+G0S1S0;BIRNIE
+G0S1T0;Lourdes
+G0S1V0;Lyster
+G0S1W0;Saint-Narcisse-De-Beaurivage
+G0S1X0;Parisville
+G0S1Y0;Saint-Edouard-De-Lotbinière
+G0S1Z0;Saint-Agapit
+G0S2A0;SAINT-EDOUARD-DE-LOTBINIÈRE
+G0S2B0;Ste-Anastasie
+G0S2C0;Saint-Antoine-De-Tilly
+G0S2E0;Saint-Apollinaire
+G0S2F0;Sainte-Agathe-De-Lotbiniere
+G0S2G0;Saint-Bernard
+G0S2H0;Sainte-Croix
+G0S2J0;SAINT-LAZARE
+G0S2L0;St-Etienne-De-Lauzon
+G0S2M0;Saint-Flavien
+G0S2P0;Saint-Gilles
+G0S2R0;SAINTE-BLANDINE
+G0S2S0;Saint-Isidore
+G0S2T0;St-Jean-Chrysostome-De-Levis
+G0S2V0;St-Joseph-De-Beauce
+G0S2W0;Saint-Lambert-De-Lauzon
+G0S2Y0;Ste-Marie-Beauce
+G0S2Z0;St-Nicolas
+G0S3A0;Beauceville
+G0S3B0;St-Redempteur-De-Levis
+G0S3C0;Saint-Sylvestre
+G0S3E0;HERVEY-JONCTION
+G0S3G0;Scott
+G0S3H0;Val-Alain
+G0S3J0;Vallee-Jonction
+G0S3K0;Villeroy
+G0S3L0;St-Nicolas Est
+G0T0L4;Longue Rive
+G0T1A0;Baie-Sainte-Catherine
+G0T1B0;Cap-A-L Aigle
+G0T1C0;Clermont
+G0T1E0;Forestville
+G0T1G0;Grandes-Bergeronnes
+G0T1H0;Labrieville
+G0T1J0;La Malbaie
+G0T1K0;Les Escoumins
+G0T1L0;Notre-Dame-Des-Monts
+G0T1M0;Pointe-Au-Pic
+G0T1N0;Riviere-Mailloux
+G0T1P0;Riviere-Portneuf
+G0T1R0;Sainte-Agnes
+G0T1S0;Saint-Aime-Des-Lacs
+G0T1T0;Saint-Fidele
+G0T1V0;Saint-Irenee
+G0T1W0;Saint-Paul-Du-Nord
+G0T1X0;Saint-Simeon
+G0T1Y0;Chicoutimi
+G0T1Z0;Longue-Rive
+G0T2A0;Tadoussac
+G0V1A0;Alouette
+G0V1C0;Martel
+G0V1D0;Sainte-Rose-Du-Nord
+G0V1E0;Jean-Dechene
+G0V1G0;Saint-Charles-De-Bourget
+G0V1H0;Ferland-Et-Boilleau
+G0V1J0;L Anse-Saint-Jean
+G0V1K0;Laterriere
+G0V1M0;Saint-Felix-D Otis
+G0V1N0;Petit-Saguenay
+G0V1P0;Riviere-Eternite
+G0V1R0;St-Ambroise-De-Chicoutimi
+G0V1S0;Saint-Fulgence
+G0V1V0;Shipshaw
+G0V1W0;Lamarche
+G0W1A0;Albanel
+G0W1B0;Saint-Antoine-Du-Lac-Saint-Jean
+G0W1C0;Mistissini
+G0W1E0;Peribonka
+G0W1G0;Chambord
+G0W1H0;Chapais
+G0W1J0;Chutes-Des-Passes
+G0W1K0;Dalmas
+G0W1L0;Delisle
+G0W1N0;Desbiens
+G0W1P0;Saint-Thomas-Didyme
+G0W1R0;Girardville Centre
+G0W1S0;Hebertville
+G0W1T0;Hebertville-Station
+G0W1V0;Lac-Bouchette
+G0W1W0;Lac-A-La-Croix
+G0W1Y0;L Ascension-De-Notre-Seigneur
+G0W1Z0;Larouche
+G0W2A0;Metabetchouan
+G0W2B0;Saint-Ludger-De-Milot
+G0W2C0;Mistassini
+G0W2E0;Normandin
+G0W2H0;Mashteuiatsh
+G0W2J0;La Dore
+G0W2K0;Saint-Antoine-du-Lac-Saint-Jean
+G0W2L0;Alma
+G0W2M0;Saint-Edmond-Les-Plaines
+G0W2N0;St-Felicien
+G0W2P0;Saint-Gedeon
+G0W2R0;Sainte-Hedwidge-De-Roberval
+G0W2S0;Labrecque
+G0W2T0;Sainte-Monique-Lac-Saint-Jean
+G0W2V0;St-Nazaire-Du-Lac-St-Jean
+G0W2W0;St-Prime
+G0W2X0;Taillon
+G0W2Y0;Ticouape
+G0W2Z0;Village-Villeneuve
+G0W3A0;Dolbeau
+G0W3B0;Obedjiwan
+G0X1A0;Batiscan
+G0X1B0;Wolinak
+G0X1C0;Champlain
+G0X1E0;Charette
+G0X1G0;Gentilly
+G0X1H0;Grandes-Piles
+G0X1J0;GIROUXVILLE
+G0X1K0;Hervey-Jonction
+G0X1L0;Lac-A-La-Tortue
+G0X1M0;Lac-Aux-Sables
+G0X1N0;Saint-Mathieu-Du-Parc
+G0X1P0;Lac-Minogami
+G0X1R0;La Croche
+G0X1S0;Sainte-Marie-De-Blandford
+G0X1T0;Les Vielles Forges
+G0X1V0;Manseau
+G0X1W0;Notre-Dame-De-Montauban
+G0X1X0;Montauban-Les-Mines
+G0X1Z0;Pointe-Du-Lac
+G0X2A0;Precieux-Sang
+G0X2B0;Proulxville
+G0X2C0;Trois-Rives
+G0X2E0;Rivière-Mekinac
+G0X2G0;Saint-Adelphe-De-Champlain
+G0X2H0;Sainte-Angele-De-Laval
+G0X2J0;SAINTE-ANNE-DE-SOREL
+G0X2K0;St-Barnabe-Nord
+G0X2L0;St-Boniface De Shawinigan
+G0X2M0;Sainte-Cecile-De-Levrard
+G0X2N0;Saint-Elie
+G0X2R0;sainte genevieve
+G0X2S0;Sainte-Gertrude
+G0X2T0;Saint-Gregoire
+G0X2V0;Saint-Jean-Des-Piles
+G0X2X0;Saint-Maurice
+G0X2Y0;Saint-Narcisse
+G0X2Z0;Saint-Pierre-Les-Becquets
+G0X3A0;Saint-Prosper
+G0X3B0;SAINT-SYLVESTRE
+G0X3C0;Sainte-Sophie-De-Levrard
+G0X3E0;Saint-Stanislas-De-Champlain
+G0X3G0;SAINTE-THÉRÈSE
+G0X3H0;Saint-Tite
+G0X3J0;Notre-Dame-Du-Mont-Carmel
+G0X3K0;Saint-Luc-De-Vincennes
+G0X3L0;Yamachiche
+G0X3N0;DELACOUR
+G0X3V0;St-Michel-Des-Saints
+G0Y1A0;Audet
+G0Y1B0;Beaulac
+G0Y1C0;Lac-Drolet
+G0Y1E0;Milan
+G0Y1G0;Lac-Megantic
+G0Y1H0;Piopolis
+G0Y1J0;STE-CECILE-DE-MILTON
+G0Y1K0;Saint-Gerard
+G0Y1L0;Saint-Romain
+G0Y1M0;Saint-Sebastien-De-Frontenac
+G0Y1N0;Stornoway
+G0Y1P0;Stratford
+G0Y1R0;Woburn
+G0Z1A0;Aston-Jonction
+G0Z1B0;Daveluyville
+G0Z1E0;Sainte-Eulalie
+G0Z1G0;Saint-Samuel
+G0Z1J0;Saint-Wenceslas
+G0Z1K0;Saint-Rosaire
+G1A0A1;Québec
+G1A1A5;Quebec
+G1B0A1;Sainte-Foy
+G1B0A2;Beauport
+G1B0A6;Val-Bélair
+G1C1L1;Lac-Saint-Charles
+G1C4X3;Charlesbourg
+G1C7Z3;Sillery
+G1E0A3;Loretteville
+G1E0A6;Irlande
+G1E1T2;Levis
+G1E2T4;L Ancienne-Lorette
+G1E4N4;Saint-Augustin-De-Desmaures
+G1E6P9;Venise-En-Québec
+G1E7A6;Vanier
+G1H1G8;Saint-Émile
+G1J2G0;Beauport Local 6678
+G1V1V6;Ste-Foy
+G1X5G4;Cap Rouge
+G2B1B0;Neufchatel
+G2E1K9;Ancienne-Lorette
+G2E1Y0;Ancienne Lorette
+G3A1A0;St.-Augustin-De-Desmaures
+G3A1V6;St-Augustin-De-Desmaures
+G3E0B7;Saint-Emile
+G3E1T4;St-Emile
+G3H0B7;Sainte-Jeanne-De-Pont-Rouge
+G3J1N0;Val Belair
+G3L1A0;Saint-Francois-D Orleans
+G3M0A8;Les Écureuils
+G3Z0A1;Baie-Saint-Paul
+G3Z3W7;La Petite-Rivière-Saint-François
+G4R0A1;SEPT-Îles
+G4R0B1;Sept-Iles
+G4R0B2;Sept-Îles
+G4R4K2;Maliotenam
+G4T1Z1;L Ile-D Entree
+G4T3B1;L ETANG-DU-NORD
+G4T3B2;L Étang-Du-Nord
+G4T3X1;Étang-Du-Nord
+G4T6A1;Grosse-Ile
+G4T7A2;Grande-Entrée
+G4W9C7;Saint-Francois-D Assise
+G4Z1C0;Baie Comeau
+G4Z1Y0;Anse Comeau
+G5A1E7;La Malbaie-Pointe-Au-Pic
+G5A1S4;Riviere-Malbaie
+G5A2R0;Rivière-Malbaie
+G5B1C0;Port Cartier
+G5C0A6;Hauterive
+G5H0A8;Mont Jolie
+G5H1V6;St-Jean-Baptiste
+G5H2V0;Mont Joli
+G5H3K6;Saint-Joseph-De-Lepage
+G5H5H6;St-Joseph-De-Lepage
+G5L0A7;Notre-Dame-De-Rimouski
+G5L1E9;Rimouski-Est
+G5L3J9;Sainte-Odile-Sur-Rimouski
+G5M1A0;Pointe Au Pere
+G5R0A1;RIVIÈRE-DU-LOUP
+G5R0A4;Rivière-Du-Loup
+G5R1E3;Riviere-Du-Loup
+G5R2B0;Riviere Du Loup
+G5R2R3;Lévis
+G5R2Z1;Saint-Patrice
+G5T1A2;Dégelis
+G5V0A1;Montmagny
+G5Y0A1;Saint-Georges
+G5Y0G4;Saint Georges De Beauce
+G5Y0G7;Aubert-Gallion
+G5Y1A6;St-Georges
+G5Y1A9;St.-Georges
+G5Y3N4;St-Georges-Ouest
+G5Y5C1;Saint-Georges-Est
+G5Y8H2;Aubert Gallion
+G6B0A1;LAC-Mégantic
+G6B1A1;NANTON
+G6B1B0;Lac Megantic
+G6B1E4;Lac-Mégantic
+G6B2K5;Frontenac
+G6B3E4;Nantes
+G6E0A1;Sainte-Marie
+G6E1A0;Ste.-Marie
+G6E1C6;Ste-Marie
+G6E1J1;St.-Marie
+G6E6L6;Lac Ste-Marie
+G6G0A1;Saint-Jean-De-Brebeuf
+G6G1A1;Thetford Mines
+G6G2S0;Thetford
+G6G8Y1;Kinnear S Mills
+G6H3C4;Leeds Village
+G6H3E8;East Broughton Station
+G6J0A1;SAINT-ÉTIENNE-DE-LAUZON
+G6J0A6;Saint-Etienne-De-Lauzon
+G6J1A8;Saint-ÉTIENNe-De-Lauzon
+G6K0A1;SAINT-AMATEUR
+G6K1B4;Saint-Redempteur
+G6K1Z3;Charny
+G6L0A3;Plessisville
+G6P6M1;Arthabaska
+G6P6S2;Saint-Christophe-D Arthabaska
+G6V1B0;Aubigny
+G6V2D4;Saint-Joseph-De-La-Pointe-De-Lévy
+G6V8J1;Lauzon
+G6W0A4;Saint-Romuald
+G6W0H4;Saint Romald
+G6W2E4;St-Romuald-D Etchemin
+G6W7C9;St-David-De-L Auberiviere
+G6X1X0;Quebec/Levis
+G6Z0A1;Saint-Jean-Chrysostome
+G6Z1A0;St.-Jean-Chrysostome-De-Levis
+G6Z3B6;St-Jean-Chrysostome
+G7A0A1;Saint-Nicolas
+G7B0A1;La Baie
+G7B0A5;Grand-Baie
+G7B1Z3;Port Alfred/Bagotville
+G7G1X0;Chicoutimi-Nord
+G7G3W8;Canton Tremblay
+G7N0A1;LaterriéRe
+G7N1A2;LATERRIéRE
+G7P1Z9;Saint-Ambroise
+G7P3B4;Saint-Andre-Du-Lac-Saint-Jean
+G7S0A1;JonquiéRe
+G7S0A3;JONQUIéRE
+G7S0A6;Jonquiere
+G7S1E5;Arvida
+G7X1C9;Jonquiere-Kenogami
+G7X7V6;Lac-Kenogami
+G8G1A1;MéTABETCHOUAN-LAC-A-LA-CROIX
+G8G1A2;Metabetchouan-Lac-A-La-Croix
+G8G2M5;Metabechuoan
+G8G5J3;MéTabetchouan-Lac-A-La-Croix
+G8H1A1;Roberval
+G8J0A1;Saint-Prime
+G8J1A1;SALVADOR
+G8K0A1;SAINT-FéLICIEN
+G8K0A3;Saint-Felicien
+G8K0A6;Saint-FéLicien
+G8K1A0;St.-Felicien
+G8L0A1;Dolbeau-Mistassini
+G8M0A4;Saint-Stanislas
+G8M4T6;Sainte-Elisabeth-De-Proulx
+G8N0A1;HéBERTVILLE
+G8N0B1;HéBertville
+G8N4C5;Notre-Dame-D HéBertville
+G8P0A1;Chibougamau
+G8T0A1;TROIS-RIVIÈRES
+G8T0A2;Trois-Rivières
+G8T0A5;Trois-Rivieres
+G8T0B2;Cap-De-La-Madeleine
+G8T1A7;Saint-Louis-De-France
+G8T2A0;Cap De La Madeleine
+G8T3B9;Sainte-Marthe-Du-Cap
+G8T7V7;Ste-Marthe-Du-Cap
+G8T7V8;St-Louis-De-France
+G8T9P9;Trois-Rivières-Ouest
+G8V2A5;L Île-Perrot
+G8Y4L8;Trois-Rivieres-Ouest
+G9A0A5;Trois-Rivières Ouest
+G9B0E5;Pointe Du Lac
+G9H0A1;BéCANCOUR
+G9H0B6;BéCancour
+G9H0C6;Becancour
+G9N0A1;Shawinigan
+G9N0B3;Shawenegan
+G9N1E1;Grand-mère
+G9N1Y5;Baie-De-Shawinigan
+G9N6K8;Saint-Gerard-Des-Laurentides
+G9N6S7;SAINT-GéRARD-DES-LAURENTIDES
+G9N6T5;Shawinigan-Sud
+G9R0A1;Saint-GéRard-Des-Laurentides
+G9R1X7;Lantier
+G9T0A1;Saint-Georges-De-Champlain
+G9T1A9;Grand-Mere
+G9T1B0;Grand Mere
+G9T1B9;GRAND-mère
+G9T3E7;Lemoyne
+G9T6N4;St-Georges-De-Champlain
+G9X0A1;La Tuque
+H0A1A0;Address Unknown
+H0A1E0;Sainte-Marie-De-Laval
+H0A1G0;St-Francois-De-Laval
+H0A2G0;St-Francois
+H0M1A0;Akwesasne
+H1A0A1;Montréal
+H1A0A3;Pointe-Aux-Trembles
+H1A0A6;Pte Aux Trembles
+H1A1B7;Montreal
+H1B0A2;Montréal-Est
+H1B1A9;Montréal-EST
+H1B2V2;Montreal-Est
+H1B5K2;Pierrefonds
+H1B5K8;Lasalle
+H1C0B2;Riviere Des Prairies
+H1E1A7;Ahuntsic
+H1E1P3;Anjou
+H1E2Z3;Saint-Laurent
+H1G1A0;Montréal-Nord
+H1G1A1;Montréal-NORD
+H1G1C4;Montreal-Nord
+H1G1L0;Montreal Nord
+H1H5V7;Laval
+H1L1Q1;Long Point
+H1M3H7;Saint-LéOnard
+H1M3Y5;Longue-Pointe
+H1N0A7;Brossard
+H1N3L1;Beaconsfield
+H1P1A2;SAINT LéONARD
+H1P1B3;Saint-Leonard
+H1P1H7;ST LEONARD
+H1P1N7;St-Leonard
+H1P3R3;Ville St-Leonard
+H1R1L0;St.-Leonard
+H1V1X6;Rosemont
+H1V1Y7;Westmount
+H1V3E1;Mont-Royal
+H1V3L7;Kirkland
+H1W4A2;Sherbrooke
+H1X3G5;Lachine
+H1Y2H5;Roxboro
+H1Y3K8;L Île-Bizard
+H1Z3T4;CéTe Saint Michel
+H2A3R4;St-Michel
+H2B1A0;Sault-Au-RéCollet
+H2B1Y3;Duvernay
+H2B2Z6;St.Leonard
+H2E2C0;Beaubien
+H2J0A4;Delorimier
+H2L3G5;Dollard-Des-Ormeaux
+H2M2X8;Youville
+H2R2O2;Plateau-Mont-Royal
+H2T3E2;Outremont
+H2V2N1;Pointe-Claire
+H2X1A3;Dorval
+H3C1C9;Ile-Des-Soeurs
+H3E0A1;Verdun
+H3P1Z2;Mount-Royal
+H3P2Z0;Mont Royal
+H3R2M1;CéTe-Saint-Luc
+H3S3W5;Ville Mont-Royal
+H3T1A0;Snowdon
+H3X1A5;Hampstead
+H3X1R8;Cote Saint-Luc
+H3X1R9;Céte-Saint-Luc
+H3Z2V4;Baie-D Urfé
+H4A2Y1;Notre-Dame-De-Grace
+H4B1W9;Montréal-Ouest
+H4B3P3;Notre Dame De Grace
+H4C0A7;Montreal#
+H4C3E7;Saint-Pierre
+H4J2O9;Bordeaux
+H4K1K8;St-Laurent
+H4K3P3;Cartierville
+H4L0A3;St.-Laurent
+H4M2Z2;St Laurent
+H4N1C9;Ville St. Laurent
+H4R0B0;St.Laurent
+H4W1R5;Cote-St-Luc
+H4W3J6;Cote-Saint-Luc
+H4X1B4;Montréal-OUEST
+H4X1C7;Montreal-Ouest
+H4Y1A0;Pointe Claire Dorval
+H4Y1B0;Pte Claire Dorval
+H7A1K9;Chambly
+H7C1S1;Otterburn Park
+H7C1S6;St-Vincent-De-Paul
+H7C1W1;Lavaltrie
+H7C5S5;Saint-Vincent-De-Paul
+H7E0A4;Beloeil
+H7E4N2;Saint-Bruno-De-Montarville
+H7E4N3;Carignan
+H7E4N4;Saint-Antoine-De-Lavaltrie
+H7H2S4;Mont-Saint-Hilaire
+H7H2W7;Auteuil
+H7K1K4;Lorraine
+H7K3G5;Vimont
+H7L1G4;Sainte-Rose
+H7L3M7;Chomedey
+H7N1X2;Laval-Des-Rapides
+H7N2S5;Pont-Viau
+H7P2P1;Fabreville
+H7R1L8;Laval-Ouest
+H7V2V0;Chomedey Laval
+H7X1A4;Sainte-Dorothee
+H7X1A6;STE.-DOROTHEE
+H7X1E0;Ste.-Dorothee
+H8N1B8;La Salle
+H8R1E0;St.-Pierre
+H8R1P1;Terrebonne
+H8Y3C0;Dollard Des Ormeaux
+H9C1B6;L Ile-Bizard
+H9C2C2;Ile-Bizard
+H9C2H0;St.-Raphael-De L Ile-Bizard
+H9H0B2;Sainte-GeneviéVe-De-Pierrefonds
+H9H1A1;Sainte-Genevieve
+H9H3A2;Sainte Genevieve
+H9J4R4;St Charles
+H9P1A4;Pointe Claire-Dorval
+H9P1H9;Pointe-Claire-Dorval
+H9R1B0;Pointe Claire
+H9W1B0;Ste.-Anne-De-Bellevue
+H9W2X2;St.-Anne-De-Bellevue
+H9X1A1;Senneville
+H9X1P3;Baie-D Urfe
+H9X2R1;Baie D Urfe
+H9X3A0;Baie D Urfee
+H9X4A4;Ste-Anne-De-Bellevue
+J0A1A0;Danville
+J0A1A1;Tingwick
+J0A1B0;Kingsey Falls
+J0A1C0;Saint-Adrien
+J0A1E0;Saint-Albert
+J0A1G0;Saint-Camille
+J0A1H0;Sainte-Elizabeth-De-Warwick
+J0A1J0;Saint-Georges-De-Windsor
+J0A1K0;Saint-Remi-De-Tingwick
+J0A1N0;Wotton
+J0B0A3;Cookshire
+J0B1A0;Ascot Corner
+J0B1B0;Austin
+J0B1C0;Ayer s Cliff
+J0B1E0;Beebe
+J0B1G0;Bishopton
+J0B1G8;Cookshire-Eaton
+J0B1H0;Bromptonville
+J0B1J0;Bury
+J0B1K0;Chartierville
+J0B1L0;Compton
+J0B1N0;Deauville
+J0B1P0;Stanhope
+J0B1R0;East Angus
+J0B1S0;East Hereford
+J0B1T0;Georgeville
+J0B1V0;Greenlay
+J0B1W0;Sainte-Catherine-De-Hatley
+J0B1X0;Kingsbury
+J0B1Y0;La Patrie
+J0B1Z0;Lennoxville
+J0B2A0;Martinville
+J0B2B0;Melbourne
+J0B2C0;Canton-De-Hatley
+J0B2E0;Notre-Dame-Des-Bois
+J0B2G0;Omerville
+J0B2H0;Cleveland
+J0B2J0;Rock Forest
+J0B2K0;Rock Island
+J0B2L0;Marbleton
+J0B2M0;Saint-Benoit-Du-Lac
+J0B2N0;St-Claude
+J0B2P0;Saint-Denis-De-Brompton
+J0B2R0;Sainte-Edwidge
+J0B2S0;Saint-élie-d Orford
+J0B2T0;Saint-Felix-De-Kingsey
+J0B2V0;St-Francois-Xavier-De-Brompton
+J0B2W0;Saint-Hermenegilde
+J0B2X0;Saint-Isidore-De-Clifton
+J0B2Y0;Saint-Malo
+J0B2Z0;Lingwick
+J0B3A0;Sawyerville
+J0B3B0;Scotstown
+J0B3E0;Stanstead
+J0B3E3;Ogden
+J0B3G0;Stoke
+J0B3H0;Waterville
+J0B3J0;Weedon
+J0B3K0;Windsor
+J0B3N0;Richmond-Nord
+J0B3S0;Richmond
+J0B4B0;Hatley
+J0C1A0;Bon-Conseil
+J0C1B0;L Avenir
+J0C1C0;Saint-Bonaventure
+J0C1E0;Sainte-Brigitte-Des-Saults
+J0C1G0;SAINT-CLET
+J0C1H0;St-Cyrille-De-Wendover
+J0C1J0;SAINT-EDMOND-DE-GRANTHAM
+J0C1K0;Saint-Edmond-De-Grantham
+J0C1L0;Saint Guillaume
+J0C1M0;Saint-LéOnard-D Aston
+J0C1N0;Saint-Lucien
+J0C1P0;St-Nicephore
+J0C1R0;Sainte-Perpetue
+J0C1S0;Wickham
+J0C2C0;Drummondville
+J0C8A8;Saint-Joachim-De-Courval
+J0E1A0;Abbotsford
+J0E1A1;Bolton-Ouest
+J0E1B0;Abercorn
+J0E1C0;Bromont 2
+J0E1E0;Ange-Gardien
+J0E1G0;Saint-Etienne-De-Bolton
+J0E1H0;Bonsecours
+J0E1J0;Brigham
+J0E1K0;Brome
+J0E1L0;Bromont
+J0E1M0;Dunham
+J0E1N0;East Farnham
+J0E1P0;Eastman
+J0E1R0;Foster
+J0E1S0;Fulford
+J0E1T0;Highwater
+J0E1V0;Knowlton
+J0E1W0;Lawrenceville
+J0E1X0;Mansonville
+J0E1Y0;Racine
+J0E1Z0;Roxton Pond
+J0E2B0;Saint-Joachim-De-Shefford
+J0E2C0;Ste-Cecile-De-Milton
+J0E2H0;South Bolton
+J0E2J0;Stukely-Sud
+J0E2K0;Sutton
+J0E2L0;Valcourt
+J0E2M0;Warden
+J0E2N0;Waterloo
+J0E2P0;West BréMe
+J0E3G0;St-ÉTIENNe De Bolton
+J0G0O0;Baie-Du-Febvre
+J0G1B0;Grand-Saint-Esprit
+J0G1C0;La Visitation-De-Yamaska
+J0G1E0;Nicolet
+J0G1G0;Notre-Dame-De-Pierreville
+J0G1H0;Odanak
+J0G1K0;Massueville
+J0G1L0;Pierreville
+J0G1N0;Sainte-Monique
+J0G1P0;Saint-Ours
+J0G1R0;Saint-Pie-De-Guire
+J0G1S0;Saint-Robert
+J0G1T0;Sainte-Victoire-De-Sorel
+J0G1V0;Saint-Nazaire-D Acton
+J0G1W0;Yamaska-Est
+J0G3J0;St-David D Yamaska
+J0H0C0;St-Liboire
+J0H1A0;Acton Vale
+J0H1B0;La PréSentation
+J0H1E0;Roxton Falls
+J0H1G0;SAINT-BERNARD
+J0H1H0;Canton-De-Granby
+J0H1J0;Saint-Damase
+J0H1K0;Saint-Denis-Sur-Richelieu
+J0H1L0;Saint-Dominique
+J0H1M0;SAINT-ETIENNE-DE-BOLTON
+J0H1N0;Saint-Charles-Sur-Richelieu
+J0H1P0;Saint-Jude
+J0H1R0;Saint-Liboire
+J0H1T0;Saint-Marcel-De-Richelieu
+J0H1W0;Ste-Roselie
+J0H1X0;Sainte-Rosalie
+J0H1Z0;Saint-Zephirin-De-Courval
+J0H2A0;Saint-Thomas-D Aquin
+J0H2B0;Saint-Theodore-D Acton
+J0H2C0;Durham-Sud
+J0H2E0;Upton
+J0H2H0;Actonvale
+J0H2J0;St-Pie
+J0H2K0;St-Damase
+J0J0C9;Pike River
+J0J1A0;Bedford
+J0J1B0;Clarenceville
+J0J1C0;Frelighsburg
+J0J1E0;Henryville
+J0J1G0;BEAUHARNOIS
+J0J1H0;L Acadie
+J0J1J0;Lacolle
+J0J1K0;Saint-Athanase
+J0J1L0;Napierville
+J0J1M0;Notre-Dame-De-Stanbridge
+J0J1N0;Philipsburg
+J0J1R0;Richelain
+J0J1S0;Saint-Alexandre-D Iberville
+J0J1T0;Saint-Armand
+J0J1V0;Saint-Bernard-De-Lacolle
+J0J1W0;Saint-Blaise-Sur-Richelieu
+J0J1X0;Sainte-Brigide-D Iberville
+J0J1Y0;Saint-Ignace-De-Stanbridge
+J0J1Z0;Saint-Jacques-Le-Mineur
+J0J2A0;St-Luc
+J0J2B0;Ste-Sabine
+J0J2C0;SAINT-BASILE
+J0J2G0;Sabrevois
+J0J2J0;Stanbridge Station
+J0K1A0;Berthierville
+J0K1B0;SACRE-COEUR-DE-MARIE-PARTIE-S
+J0K1C0;Saint-Ambroise-De-Kildare
+J0K1E0;Lanoraie
+J0K1G0;L Assomption
+J0K1J0;L Epiphanie
+J0K1K0;Lourdes-De-Joliette
+J0K1L0;Mandeville
+J0K1M0;Manouane
+J0K1N0;Maskinongé
+J0K1R0;Sainte-Angele-De-Premont
+J0K1S0;Rawdon
+J0K1T0;Saint-Alexis-De-Montcalm
+J0K1W0;Saint-Alexis-Des-Monts
+J0K1X0;SAINTE-MARTHE
+J0K1Y0;Sainte-Beatrix
+J0K1Z;St-Charles-De-Mandeville
+J0K1Z0;Saint-Calixte
+J0K2A0;Saint-Cleophas-De-Brandon
+J0K2B0;SAINT-PACOME
+J0K2C0;Saint-Cuthbert
+J0K2E0;Saint-Damien
+J0K2G0;Saint-Didace
+J0K2H0;Saint-éDouard-De-Maskinongé
+J0K2K0;SAINT-HERMENEGILDE
+J0K2L0;Saint-Esprit
+J0K2M0;ST.-FELIX-DE-VALOIS
+J0K2P0;LA VISITATION-DE-YAMASKA
+J0K2R0;Saint-Liguori
+J0K2S0;Saint-Jean-De-Matha
+J0K2T0;Sainte-Julienne
+J0K2V0;Saint-Justin
+J0K2W0;SAINT-LIN
+J0K2Y0;Sainte-Marcelline-De-Kildare
+J0K2Z0;Sainte-Marie-Salome
+J0K3A0;SAINTE-MARIE
+J0K3A3;Sainte-MéLanie
+J0K3C0;Saint-Norbert
+J0K3E0;Saint-Paul
+J0K3G0;St-Paulin
+J0K3H0;Saint-Roch-De-L Achigan
+J0K3J0;St-Sulpice
+J0K3K0;St-Theodore Chertsey
+J0K3L0;Saint-Thomas
+J0K3M0;Sainte-Ursule
+J0K3N0;Saint-Zenon
+J0K3P0;Vaucluse
+J0K3T0;St.-Felix-De-Valois
+J0K3W0;St-Rock De L Achigan C.P
+J0K3X0;Ste-Julienne
+J0K3Y0;St-Calixte-De-Kilkenny
+J0K3Z0;St-Gerard De Magella
+J0K4A0;St-Jacques
+J0L1A0;Calixa-Lavallee
+J0L1B0;Châteauguay
+J0L1C0;Contrecoeur
+J0L1E0;Ville De Ste-Catherine
+J0L1G0;Delson
+J0L1H0;Hemmingford
+J0L1J0;Marieville
+J0L1K0;Mercier
+J0L1L0;Mont-St.-Hilaire
+J0L1M0;Rougemont
+J0L1N0;Saint-Amable
+J0L1P0;Sainte-AngÎle-De-Monnoir
+J0L1R0;Saint-Antoine-Sur-Richelieu
+J0L1S0;St-Basile-Le-Grand
+J0L1T0;SAINT-ROSAIRE
+J0L1V0;St-Charles-Sur-Richelieu
+J0L1W0;SAINTE-CLOTILDE-DE-BEAUCE
+J0L1X0;St-Constant
+J0L1Y0;Saint-éDouard-De-Napierville
+J0L1Z0;St.-Hilaire-Est
+J0L2A0;Saint-Isidore-De-Laprairie
+J0L2B0;Saint-Jean-Baptiste
+J0L2C0;Ste-Julie-De-Vercheres
+J0L2E0;St-Marc-Sur-Richelieu
+J0L2G0;St-Mathias
+J0L2H0;Saint-Mathieu-De-Laprairie
+J0L2J0;Saint-Michel
+J0L2K0;Saint-Philippe
+J0L2L0;Saint-RÉmi
+J0L2M0;Saint-Roch-De-Richelieu
+J0L2N0;Sherrington
+J0L2P0;Varennes
+J0L2R0;VerchéRes
+J0L2S0;Domaine-Des-Hauts-Bois
+J0L2T0;Base St-Hubert (Post Militaire
+J0L2X0;Domaine Des Hauts Bois
+J0L2Z0;Ste Julie De Vercheres
+J0L3A0;St-Remi
+J0L3B0;Vercheres
+J0L3C0;St-Cesaire
+J0M1A0;Kangirsuk
+J0M1B0;Deception Bay
+J0M1C0;Kuujjuaq
+J0M1E0;Chisasibi
+J0M1G0;Kuujjuarapik
+J0M1H0;Ivujivik
+J0M1J0;Quaqtaq
+J0M1K0;Kangiqsujuaq
+J0M1L0;Wemindji
+J0M1M0;Inukjuak
+J0M1N0;Kangiqsualujjuaq
+J0M1P0;Puvirnituq
+J0M1R0;Waskaganish
+J0M1S0;Salluit
+J0M1T0;Tasiujaq
+J0M1V0;Akulivik
+J0M1W0;Eastmain
+J0M1X0;Aupaluk
+J0M1Y0;Umiujaq
+J0M1Z0;Eastmain 1
+J0M2A0;Laforge 1
+J0M2B0;Brisay
+J0M2C0;Laforge 2
+J0N1A0;Lachenaie
+J0N1B0;La Plaine
+J0N1B2;Saint-Augustin
+J0N1C0;Mascouche
+J0N1E0;Oka
+J0N1G0;Pointe-Calumet
+J0N1H0;Sainte-Anne-Des-Plaines
+J0N1J0;Mirabel
+J0N1K0;Saint-Benoit
+J0N1L0;St-Janvier
+J0N1M0;St-Joseph Du Lac
+J0N1P0;Sainte-Marthe-Sur-Le-Lac
+J0N1S0;Ste-Scholastique
+J0N1T0;Mascouche Heights
+J0N1V0;St-Louis-De-Terrebonne
+J0N1W0;St.-Louis-De-Terrebonne
+J0N1W7;La Trappe
+J0N1X0;Ste-Anne-Des-Plaines
+J0N1Y0;Ste-Marthe-Sur-Le-Lac
+J0N1Z0;St-Janvier C.P
+J0N2E0;Lac Du Cerf
+J0P1A0;Como
+J0P1B0;Coteau-Du-Lac
+J0P1C0;Coteau-Landing
+J0P1E0;Coteau-Station
+J0P1G0;Dalhousie Station
+J0P1H0;Hudson
+J0P1J0;Hudson Heights
+J0P1K0;Ile-Perrot-Sud
+J0P1L0;Les Cedres
+J0P1M0;Pointe-Des-Cascades
+J0P1N0;Pointe-Fortune
+J0P1P0;Rigaud
+J0P1R0;RIVIÈRE-BLEUE
+J0P1S0;Saint-Clet
+J0P1T0;Sainte-Justine-De-Newton
+J0P1V0;St-Lazare-De-Vaudreuil
+J0P1W0;Sainte-Marthe
+J0P1X0;Saint-Polycarpe
+J0P1Y0;Saint-Telesphore
+J0P1Z0;Saint-Zotique
+J0P2A0;St Lazare De Vaudreuil
+J0P2W0;Saint-Lazare
+J0R1A0;Mille-Isles
+J0R1A9;Saint-Sauveur-Des-Monts
+J0R1B0;Sainte-Anne-Des-Lacs
+J0R1B8;St-Sauveur
+J0R1C0;Saint-Lin
+J0R1E0;Lesage
+J0R1G0;Mont-Rolland
+J0R1H0;Morin-Heights
+J0R1J0;Saint-Hippolyte
+J0R1K0;Piedmont
+J0R1L0;Ste-Adele
+J0R1N0;Saint-Colomban
+J0R1P0;St-Hippolyte-De-Kilkenny
+J0R1P5;Ste-Anne Des Lacs
+J0R1R0;Saint-Sauveur
+J0R1S0;Sainte-Sophie
+J0R1T0;PROVOST
+J0R1V0;Village-De-Seraphin
+J0R1W0;Bellefeuille
+J0R1X0;Ste Adele
+J0R1Y0;Laurentides
+J0R1Z0;St.-Lin
+J0R2A0;Prevost
+J0R2B0;St-Sauveurs-Des-Monts
+J0R2C0;Ste-Sophie
+J0S1A0;Athelstan
+J0S1B0;Cazaville
+J0S1C0;Dewittville
+J0S1E0;Franklin
+J0S1G0;Sainte-Martine
+J0S1H0;Godmanchester
+J0S1J0;Melocheville
+J0S1K0;Ormstown
+J0S1L0;Elgin
+J0S1M0;Saint-Anicet
+J0S1N0;Saint-Antoine-Abbé
+J0S1P0;Ste-Barbe
+J0S1R0;Saint-Chrysostome
+J0S1S0;Saint-ÉTIENNe-De-Beauharnois
+J0S1T0;Saint-Louis-De-Gonzague
+J0S1V0;SAINT-PAUL-DE-MONTMINY
+J0S1W0;Saint-Stanislas-De-Kostka
+J0S1X0;St-Timothee
+J0S1Y0;Saint-Urbain-Premier
+J0S2A0;Ste Martine
+J0S2B0;Huntingdon
+J0S2C0;Havelock
+J0T1A0;Arundel
+J0T1B0;BréBeuf
+J0T1C0;Ecowi
+J0T1E0;Esterel
+J0T1G0;Boileau
+J0T1H0;Labelle
+J0T1J0;lac-supérieur
+J0T1J1;Saint-Jovite
+J0T1J2;SAINT-FAUSTIN
+J0T1K0;Lac-Des-Plages
+J0T1L0;SAINTE-MARGUERITE-MARIE
+J0T1M0;La Conception
+J0T1N0;Lac-St-Denis
+J0T1R0;La Macaza
+J0T1S0;La Minerve
+J0T1T0;117 S Rivière-Rouge
+J0T1W0;L Ascension
+J0T1X0;Lussier
+J0T1Y0;Wentworth-Nord
+J0T1Z0;Mont-Tremblant
+J0T2A0;Notre-Dame-De-La-Merci
+J0T2A2;Lac-supérieur
+J0T2B0;Saint-Adolphe-D Howard
+J0T2C0;Saint-Donat-De-Montcalm
+J0T2E0;Entrelacs
+J0T2G0;Saint-Faustin
+J0T2J0;St.-Agathe-Des-Monts
+J0T2K0;Ste-Marguerite-Station
+J0T2L0;Amherst
+J0T2M0;Lac-Des-Seize-Iles
+J0T2N0;Val-David
+J0T2P0;Val-Des-Lacs
+J0T2R0;Val-Morin
+J0T2S0;Val-Morin-Station
+J0T2V0;Montcalm
+J0T2W0;L Annociation
+J0T2X0;St-Jovite
+J0T2Y0;Lost River
+J0T2Z0;St-Donat-De-Montcalm
+J0T3A0;Val David
+J0T3B0;L Annonciation
+J0T3C0;Laurel
+J0V1A0;Brownsburg
+J0V1B0;Grenville
+J0V1C0;Carillon
+J0V1E0;ChéNéVille
+J0V1G0;Duhamel
+J0V1G4;Namur
+J0V1H0;Fassett
+J0V1K0;Gore
+J0V1L0;Montebello
+J0V1M0;Montpellier
+J0V1P0;Notre-Dame-De-La-Paix
+J0V1R0;Papineauville
+J0V1S0;Plaisance
+J0V1T0;Pointe-Au-Chene
+J0V1V0;Ripon
+J0V1W0;ST-ANDRE-AVELLIN
+J0V1Y0;Saint-Emile-De-Suffolk
+J0V1Z0;St-Hermas
+J0V2A0;St-Philippe D Argenteuil
+J0V2B0;Saint-Placide
+J0V2G0;St-Andre-Avellin
+J0V2V0;Saint-André-Avellin
+J0W1A0;Chute-Saint-Philippe
+J0W1B0;Farley
+J0W1C0;Ferme-Neuve
+J0W1E0;Montcerf-Lytton
+J0W1G0;Kiamika
+J0W1H0;Beaux-Rivages
+J0W1J0;Des Ruisseaux
+J0W1K0;Lac-Saint-Paul
+J0W1L0;Lac-Saguay
+J0W1M0;Maniwak1
+J0W1P0;Mont-Saint-Michel
+J0W1R0;Nominingue
+J0W1S0;Lac-Du-Cerf
+J0W1T0;Parc-De-La-Verendrye
+J0W1V0;Ste-Anne-Du-Lac
+J0W1W0;Aumond
+J0W1X0;SAINTE-MONIQUE
+J0W2B0;Mitchinamecus
+J0W2C0;Rapid Lake
+J0X1A0;Alcove
+J0X1B0;Angers
+J0X1C0;Blue Sea
+J0X1E0;Bouchette
+J0X1G0;Norway Bay
+J0X1H0;Bryson
+J0X1J0;Ile Du Grand-Calumet
+J0X1K0;Campbell s Bay
+J0X1L0;Cantley
+J0X1M0;Chapeau
+J0X1N0;Chelsea
+J0X1P0;Danford Lake
+J0X1R0;Davidson
+J0X1S0;Duclos
+J0X1T0;Farrellton
+J0X1V0;Fort-Coulonge
+J0X1W0;Gracefield
+J0X1X0;Kazabazua
+J0X1Y0;Lac-Cayamant
+J0X1Z0;Deleage
+J0X2A0;Ladysmith
+J0X2B0;Limbour
+J0X2C0;Denholm
+J0X2E0;Lucerne
+J0X2G0;Luskville
+J0X2H0;Masson
+J0X2J0;Messines
+J0X2L0;Notre-Dame-De-La-Salette
+J0X2M0;Notre-Dame-Du-Laus
+J0X2N0;Old Chelsea
+J0X2P0;Otter Lake
+J0X2P4;Thorne
+J0X2R0;Perkins
+J0X2S0;Poltimore
+J0X2T0;Portage-Du-Fort
+J0X2V0;Quyon
+J0X2W0;SAINTE-CECILE
+J0X2X0;Ste-Therese-De-Gatineau
+J0X2Y0;Shawville
+J0X2Z0;Sheenboro
+J0X3A0;Tenaga
+J0X3B0;Thurso
+J0X3C0;Val-Des-Bois
+J0X3E0;Vénosta
+J0X3G0;Wakefield
+J0X3H0;Waltham Station
+J0X3J0;Wilsons Corners
+J0X3K0;Lac Des Loups
+J0X3L0;St-Pierre-De-Wakefield
+J0X3M0;Rapides-Des-Joachims
+J0X3N0;Saint-Sixte
+J0Y1A0;Barraute
+J0Y1A1;Matagami
+J0Y1B0;Beattyville
+J0Y1C0;Cadillac
+J0Y1E0;Champneuf
+J0Y1G0;Dalquier
+J0Y1H0;Desmaraisville
+J0Y1J0;Saint-Marc-De-Figuery
+J0Y1K0;Gagnon Siding
+J0Y1L0;Guyenne
+J0Y1M0;Harricanaw-Ouest
+J0Y1N0;Joutel
+J0Y1P0;Lac-Langis
+J0Y1R0;La Corne
+J0Y1S0;La Morandiere
+J0Y1T0;La Motte
+J0Y1V0;Landrienne
+J0Y1W0;Launay-Taschereau
+J0Y1X0;Lebel-Sur-Quevillon
+J0Y1Y0;Louvicourt
+J0Y1Z0;Malartic
+J0Y2B0;Miquelon
+J0Y2C0;Nottaway
+J0Y2E0;Preissac
+J0Y2G0;Berry
+J0Y2H0;Riviere-Heva
+J0Y2J0;Rochebaucourt
+J0Y2K0;Saint-Dominique-Du-Rosaire
+J0Y2L0;Sainte-Gertrude-De-Villeneuve
+J0Y2M0;Belcourt
+J0Y2N0;Sullivan
+J0Y2P0;Val-Senneville
+J0Y2R0;Vassan
+J0Y2S0;Villemontel
+J0Y2T0;Comtois
+J0Y2V0;La Grande Deux
+J0Y2W0;La Grande Trois
+J0Y2X0;Radisson
+J0Y2Z0;Caniapiscau
+J0Y3A0;Sakami
+J0Y3B0;Nemiscau
+J0Y3C0;Waswanipi
+J0Y3E0;Laforge-Deux
+J0Y3L0;Chaumont
+J0Y3M0;Lac-Simon
+J0Y3N0;La Grande 2a
+J0Z1A0;Angliers
+J0Z1B0;Arntfield
+J0Z1C0;Authier
+J0Z1E0;Authier-Nord
+J0Z1G0;Bearn
+J0Z1H0;Beaucanton
+J0Z1J0;Beaudry
+J0Z1K0;Bellecombe
+J0Z1L0;Belleterre
+J0Z1M0;Ste-Germaine-Boule
+J0Z1N0;Chazel
+J0Z1P0;Clericy
+J0Z1R0;Mancebourg
+J0Z1S0;Cloutier
+J0Z1T0;Colombourg
+J0Z1V0;Desmeloizes
+J0Z1W0;Duparquet
+J0Z1X0;Dupuy
+J0Z1Y0;Rouyn-Noranda
+J0Z1Z0;Fabre
+J0Z2A0;Fugereville
+J0Z2B0;Gallichan
+J0Z2C0;Granada
+J0Z2E0;BURIN
+J0Z2G0;Saint-Bruno-De-Guigues
+J0Z2H0;Kipawa
+J0Z2J0;Laforce
+J0Z2K0;Laniel
+J0Z2L0;La Reine
+J0Z2M0;Lasarre
+J0Z2N0;Latulipe
+J0Z2P0;Laverlochère
+J0Z2R0;Lorrainville
+J0Z2S0;Macamic
+J0Z2V0;Mcwatters
+J0Z2W0;Moffet
+J0Z2X0;Montbeillard
+J0Z2Y0;Mont-Brun
+J0Z2Z0;Nedelec
+J0Z3A0;Normetal
+J0Z3B0;Notre-Dame-Du-Nord
+J0Z3C0;Palmarolle
+J0Z3E0;Poularies
+J0Z3G0;Rapide-Danseur
+J0Z3H0;Remigny
+J0Z3J0;Rollet
+J0Z3K0;Roquemaure
+J0Z3L0;Saint-Eugene-De-Guigues
+J0Z3M0;Saint-Vital-De-Clermont
+J0Z3N0;Taschereau
+J0Z3P0;Tee Lake
+J0Z3R0;BATISCAN
+J0Z3S0;Val-Paradis
+J0Z3T0;Val-Saint-Gilles
+J0Z3V0;Villebois
+J0Z3W0;Ville-Marie
+J0Z3X0;Destor
+J1A0A1;Coaticook
+J1C0A7;Fleurimont
+J1G3G0;Fleuri Mont
+J1G4S3;Ascot
+J1H6W8;Sherbrook
+J1N1E6;Rock-Forest
+J1R0C5;Saint-éLie-D Orford
+J1R1N9;Saint-Elie-D Orford
+J1R2R5;St-Elie
+J1T1A1;Asbestos
+J1X0A1;Magog
+J1X0A2;Orford
+J1X0C4;Canton Magog
+J1Z0A1;Saint-Cyrille-De-Wendover
+J1Z1S0;Saint-Cyrille
+J2A0A1;SAINT-NICÉPHORE
+J2A0A4;Saint-Nicephore
+J2A1A0;St.-Nicephore
+J2B6X3;Grantham-Ouest
+J2C0A2;Saint-Charles-De-Drummond
+J2C7C5;St-Charles-De-Drummond
+J2C7G9;Grantham
+J2G0A1;Granby
+J2G2G0;Canton De Shefford
+J2G6Z7;S Granby
+J2H1T9;Canton De Granby
+J2J0A0;Cantons-De-Granby
+J2K0A1;Cowansville
+J2M0A1;Shefford
+J2N0A1;Farnham
+J2R0A1;Saint-Hyacinthe
+J2R0A5;St.-Hyacinthe
+J2S0B9;La Providence
+J2S1E7;St-Hyacinthe
+J2W0A0;St Jean Sur Le Richelieu
+J2W0A1;Saint-Jean-Sur-Richelieu
+J2W0C9;Saint-Luc
+J2W1K5;St.-Jean-Sur-Richelieu
+J2X0B7;Iberville
+J2X4B7;Sorel
+J3A1L3;St.-Jean
+J3A1R7;St-Jean-Sur-Richelieu
+J3A2T2;Saint-Jean Sur Richelieu
+J3E0A1;Sainte-Julie
+J3E0B3;Ste Julie
+J3E1G3;Ste-Julie
+J3G0B3;Saint-Mathieu-De-Beloeil
+J3G0B7;Mcmasterville
+J3H0E3;Mont-St-Hilaire
+J3H1K3;Otterburn-Park
+J3H3N0;St.-Hilaire
+J3H4G6;St-Hilaire
+J3L0A8;Richelieu
+J3L3Z4;Saint-Joseph-De-Sorel
+J3L5Z7;Saint-Mathias-Sur-Richelieu
+J3N1S0;St-Basile Le Grand
+J3P0A1;Sorel-Tracy
+J3P0B6;Sainte-Anne-De-Sorel
+J3P7V3;St-Pierre-De-Sorel
+J3R1C1;Tracy
+J3T1L0;Saint-Jean-Baptiste-De-Nicolet
+J3V0A1;Saint-Bruno
+J3V1Y0;St.-Bruno
+J3V3R9;St-Bruno
+J3V5K5;Bruno
+J3V6E6;St Bruno
+J3V9E3;St-Bruno-De-Montarville
+J3Y0A1;Saint-Hubert
+J3Y1C3;St.-Hubert
+J3Y1G5;St-Hubert
+J3Y2Y6;Greenfield Park
+J3Y8H2;Saint Hubert
+J4B0A1;Boucherville
+J4G1A0;Longueuil
+J4P1A1;Saint-Lambert
+J4P2E7;St-Lambert
+J4P2J0;St.-Lambert
+J4T1Z0;Lafleche
+J4V1S3;Greenfield-Park
+J4X2X1;La Prairie
+J5A0A1;Saint-Constant
+J5A1A0;St.-Constant
+J5C0A1;Sainte-Catherine
+J5C1A0;Ste-Catherine
+J5C1G6;Ste. Catherine
+J5K0B3;St Colomban
+J5K0B9;St-Colomban
+J5L0A1;Saint-JÉRÔME
+J5L0A2;SAINT-JÉRÔME
+J5L0B1;Saint-Jerome
+J5L0B8;Lafontaine
+J5M0A2;Saint-Lin-Laurentides
+J5R0A1;Candiac
+J5R4V0;Laprairie
+J5V0A1;Louiseville
+J5W1B1;Saint-Sulpice
+J5W4Z4;Saint-Gerard-Majella
+J5X0A1;L ÉPIPHANIE
+J5Y0A1;Repentigny
+J5Z0A1;Le Gardeur
+J5Z1A1;Charlemagne
+J6E0A1;SAINT-CHARLES-BORROMÉE
+J6E0A2;Joliette
+J6E0A7;Notre-Dame-Des-Prairies
+J6E0B6;Saint-Charles-Borromee
+J6E3H2;St-Paul
+J6E4M7;St-Charles-Borromee
+J6J0A2;Châteauguay-Centre
+J6J2A8;Chateauguay
+J6N0A2;Beauharnois
+J6N1A1;Léry
+J6N1E0;Maple Grove
+J6N1G0;Lery
+J6N3C1;Salaberry-De-Valleyfield
+J6N3G3;Maple-Grove
+J6S0B9;Grande-Ile
+J6S0G3;Saint-Timothée
+J6S1A1;Grande-Île
+J6S1B2;Valleyfield
+J6S2C8;Saint-Timothee
+J6S4Y7;Grande Ile
+J6X1X0;St-Louis De Terrebonne
+J6Y0E4;Bois Des Filions
+J6Y0E6;Saint-Louis-De-Terrebonne
+J6Z0A1;Bois-Des-Filion
+J6Z1C1;St.-Therese-De-Blainville
+J6Z1G0;Ste-Therese-De-Blainville
+J6Z4B5;Saint Therese-De-Blainville
+J6Z4N9;Rosemere
+J7A0A0;Rosemère
+J7A0A1;Blainville
+J7A1A6;ROSEmère
+J7C2M0;Ste.-Therese-De-Blainville
+J7C4Z4;Sainte-THÉRÈSE
+J7E0A2;Sainte-THÉRÈSE-De-Blainville
+J7E1E9;Sainte-Therese
+J7G1A1;Boisbriand
+J7N0B4;Sainte-Scholastique
+J7P0A1;Saint-Eustache
+J7P1A1;St.-Eustache
+J7P2B2;St-Eustache
+J7R0A2;Deux-Montagnes
+J7R1N0;Deux Montagnes
+J7T1A1;LES Cèdres
+J7T1A2;Les Cèdres
+J7V0A1;Vaudreuil-Dorion
+J7V0A3;Pincourt
+J7V0H3;Terrasse-Vaudreuil
+J7V1E0;Vaudreuil
+J7V1V0;Dorion Vaudreuil
+J7V2C8;Dorion-Vaudreuil
+J7V2L0;Dorion
+J7V3B4;L Ile-Perrot
+J7V3G0;Ile Perrot
+J7V3H6;NOTRE-DAME-DE-L Île-PERROT
+J7V7M4;Notre-Dame-De-L Île-Perrot
+J7V9L8;Notre-Dame-De-L Ile-Perrot
+J7V9R7;Vaudreuil-Sur-Le-Lac
+J7X1A1;Les Côteaux
+J7X1A3;Les Coteaux
+J7Y1E4;St.-Jerome
+J7Y2H1;St-Jerome
+J7Y3V3;St Jerome
+J7Z2L2;Saint-Antoine
+J7Z3B7;St-Antoine-Des-Laurentides
+J7Z4M0;St.-Antoine
+J7Z7N2;St-Antoine
+J7Z7S3;Saint-Antoine-Des-Laurentides
+J8B0A1;SAINTE-ADÈLE
+J8B0A8;Sainte-ADÈLE
+J8B0B2;Sainte-Adele
+J8B1C1;Sainte-Marguerite-Station
+J8C0A1;Sainte-Agathe-Des-Monts
+J8C1K0;Ste.-Agathe-Des-Monts
+J8C2J0;Sainte-Agathe-Nord
+J8C2Y4;Sainte-Agathe-Sud
+J8C2Z8;Ivry-Sur-Le-Lac
+J8C3A4;Ste-Agathe-Des-Monts
+J8E0B3;Lac Mercier
+J8G0A1;Brownsburg-Chatham
+J8G1J8;Chatham
+J8G1V1;Ayersville
+J8G1V6;Lachute
+J8G2S4;Harrington
+J8G3H1;Grenville-Sur-La-Rouge
+J8H0A2;Wentworth
+J8L0A1;L Ange-Gardien
+J8L0A2;Gatineau
+J8L0A6;Mayo
+J8L1A8;Buckingham
+J8M1G3;Masson-Angers
+J8N0A2;Val-Des-Monts
+J8P1Z0;Templeton
+J8T0A4;Pointe Gatineau
+J8T1M0;Gatineau Point
+J8X1A6;Hull
+J9B2H0;Lac-Meach
+J9E1A0;Egan-Sud
+J9E1A1;Maniwaki
+J9E2V7;LAC-DELAGE
+J9E3A9;Bois-Franc
+J9H0B2;Aylmer
+J9H6W6;Aylmer C.P
+J9L0A2;Mont-Laurier
+J9L0B6;Mont Laurier
+J9P0A1;Val-D Or
+J9P0A3;Atikamek
+J9P1M9;Val D Or
+J9P4N7;Dubuisson
+J9T1A1;Amos
+J9V1E1;Duhamel-Ouest
+J9X1E0;Rouyn Noranda
+J9X2G0;Lac-Dufault
+J9Z0A1;La Sarre
+T0B4N1;Viking
+V0P1J0;Kyuquot
+V5E2P9;Burnaby
+V6B1R8;Vancouver
+V7H3M2;North Vancouver
+V8Y2K3;Victoria
+B4P1E3;Wolfville
+C0B8G4;Harmony
+E2E1L7;Quispamsis
+G0P1Y0;Saint-Séverin-De-Beauce
+J0K3N0;Saint-Zénon
+K1K4V6;Ottawa
+K1V1W8;Gloucester
+K7A0K2;Montague
+K9V4S3;Lindsay
+L0M1T0;Angus
+L0N1S2;Shelburne
+L0R1T0;Hamilton
+L0R2H0;Dundas
+L0S1B0;Crystal Beach
+M6S3A8;Toronto
+M6S4M5;York
+M8V3E8;Etobicoke
+M9L2W5;North York
+N0E3N0;Windham
+N0M1M4;Crediton
+N0M2M0;Beachville
+N1G4C2;Guelph
+N1R5S5;Cambridge
+N2M2V9;Kitchener
+N3P1J4;Brantford
+N3W2B2;Caledonia
+N5X1L3;London
+P0A1X0;South River
+R0H0H1;Portage La Prairie
+S0C3K0;Midale
+S4V3V9;Regina
+T0A0A0;Abee
+T5P6B3;Edmonton
+T9J0J3;Fort Mcmurray
+V0H1Z0;Summerland
+V6N3E7;W Vancouver
+B0W2C9;Argyle
+E4E1F7;Parlee Brook
+E4R2R1;Renouard Point
+E5E2K7;Welshpool
+J0T2J1;Saint-Donat
+L0B9B0;Nestleton Station
+L0K1E0;Orillia
+L0K4J9;Coldwater
+L4M4Y8;Oro
+N0L3H4;Iona Station
+P8N2W0;Kenora
+R0J1E6;Strathclair
+R0L2P0;Minitonas
+R0M2I0;Griswold
+R7B2I2;Brandon
+R9A3R2;The Pas
+S0N2B1;Cypress Hills Park
+S7K3R2;Saskatoon
+S9A1B7;North Battleford
+T1Y3R2;Calgary
+T7Y1R3;Stony Plain
+T8E2M0;Ardrossan
+T8N5B6;St Albert
+V1C3S7;Cranbrook
+V3W1S9;Surrey
+V4B8H6;White Rock
+B0N2X0;Mount Uniacke
+B1T6J4;Christmas Island
+B2J3H6;North Fourchu
+B2S0B9;East Gore
+B3G1C8;Eastern Passage
+B4R0A2;Coldbrook
+E1E0C7;Moncton
+G8K2P8;Saint-Félicien
+H2B4B3;Sault-Au-Récollet
+K8A6W8;Pembroke
+L0C1G1;Uxbridge
+L0E1F0;Pefferlaw
+L0M2X0;Glencairn
+L1V0C2;Pickering
+M4J1X7;East York
+N0G2I2;Wroxeter
+N4B2C0;Delhi
+P0B2M0;Huntsville
+P0N1A6;Porcupine
+R2L1P7;Winnipeg
+R4H0A9;Headingley
+S0N2M0;Eastend
+V8C0A1;Kitimat
+B1G0B4;Dominion
+B3L5S8;Halifax
+E4A4A0;Chipman
+E8B2P2;Val-D Amour
+J0L1E2;Saint-Patrice-De-Sherrington

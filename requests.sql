@@ -17,10 +17,10 @@ begin transaction;
         from curr_stages group by matricule_professeur),
     busy_profs as (select matricule_professeur
         from students_entreprises_gte_2),
-    busy_profs_discipline as (select matricule_professeur, discipline from
+    busy_profs_discipline as (select matricule, discipline from
         busy_profs join professeur
         on busy_profs.matricule_professeur = professeur.matricule),
-    busy_profs_faculte as (select matricule_professeur, faculte from
+    busy_profs_faculte as (select matricule, faculte from
         busy_profs_discipline natural join programmes_departements),
     infos as (select nom_personne, courriel_personne, matricule from personne)
     select matricule, nom_personne, courriel_personne, faculte

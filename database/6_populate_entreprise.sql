@@ -18,7 +18,7 @@ INSERT INTO entreprise VALUES (933852, 'Big Metal Fan', 'pushit@toelev.en', '(81
 INSERT INTO adresses VALUES (933852, 'B3L5S8', 420, 'rang Enfumé');
 INSERT INTO entreprise VALUES (99261207, 'Pas la Mafia', 'nousommes@legit.ok', '(666)123-0987', True, 'Do not ask');
 INSERT INTO adresses VALUES (99261207, 'T0B4N1', 111, 'boulevard Sanglant');
-INSERT INTO entreprise VALUES (5222182, 'Horn Pub', 'sax@trompette.fwiiit', '(514)802-6969', True, 'Fabriquant instruments à vent');
+INSERT INTO entreprise VALUES (5222182, 'Twiggs', 'sax@trompette.fwiiit', '(514)802-6969', True, 'Fabriquant instruments à vent');
 INSERT INTO adresses VALUES (5222182, 'H2T3E2', 42, 'Place Gillespie');
 INSERT INTO entreprise VALUES (2720226, 'Vric à Vrac', 'noixdegrenobles@vrac.com', '(450)889-2776', True, 'Alimentation');
 INSERT INTO adresses VALUES (2720226, 'J0P1Y', 10092, 'Rang Profond');

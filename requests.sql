@@ -46,8 +46,7 @@ begin transaction;
         join codes_quebec),
     infos_quebec as (select id_entreprise, nom_entreprise,
         courriel_entreprise from infos_entreprise natural join id_quebec)
-    select id_entreprise, nom_entreprise, courriel_entreprise from infos_quebec
-    natural join id_entreprises;
+    select * from infos_quebec natural join id_entreprises;
 
     with id_mat_stages as (select id_entreprise, matricule_etudiant,
         matricule_professeur from stage_1),

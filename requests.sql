@@ -52,17 +52,19 @@ begin transaction;
         matricule_professeur from stage_1),
     id_mat_visites as (select id_entreprise, matricule_etudiant, date_visite
     from visites),
-    stages_visites as (select matricule_prof, date_visite
+    stages_visites as (select matricule_professeur, date_visite
         from id_mat_stages natural join id_mat_visites),
-    count_visites as (select matricule_prof, count(date_visite) as
+    count_visites as (select matricule_professeur, count(date_visite) as
         nb_visites from stages_visites group by matricule_prof),
-    visits_gt_3 as (select matricule_prof from count_visites
+    visits_gt_3 as (select matricule_professeur from count_visites
         where nb_visites > 3),
-    etudiants_visites as (select matricule_etudiant from visits_gt_3
-        natural join stage_1),
-    etudiants_programmes as (select etudiant_1.matricule, programme from
-        etudiant_1 natural join etudiants_visites),
-    select programme, count(matricule) as nb_etudiants from etudiants_programmes
+    stages_mat_etudiant as (select matricule_etudiant from stage_1),
+    etudiants_visites as (select matricule_etudiant as matricule from visits_gt_3
+        natural join stages_mat_etudiant),
+    etudiants_programmes as (select matricule, programme from etudiant_1),
+    etudiants_programmes_visites as (select * from etudiants_visites natural join
+    etudiants_programmes),
+    select programme, count(matricule) as nb_etudiants from etudiants_programmes_visites
     group by programme;
 
     commit;

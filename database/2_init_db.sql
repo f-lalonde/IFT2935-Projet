@@ -58,7 +58,7 @@ create table code_postal
 
 create table entreprise
 (
-	id_entreprise text primary key,
+	id_entreprise int primary key,
 	nom_entreprise text not null,
 	courriel_entreprise text not null,
 	telephone_entreprise text not null,
@@ -69,7 +69,7 @@ create table entreprise
 
 create table adresses
 (
-	id_entreprise text not null,
+	id_entreprise int not null,
 	code_postal text not null,
 	no_entreprise int not null,
 	rue_entreprise text not null,
@@ -79,7 +79,7 @@ create table adresses
 
 create table stage_1
 (
-	id_entreprise text not null,
+	id_entreprise int not null,
 	matricule_etudiant int not null,
 	matricule_professeur int not null,
 	poste text not null, 
@@ -100,7 +100,7 @@ create table stage_2
 
 create table visites
 (
-	id_entreprise text not null,
+	id_entreprise int not null,
 	matricule_etudiant int not null,
 	date_debut date not null,
 	date_fin date,
@@ -108,7 +108,7 @@ create table visites
 	foreign key (id_entreprise) references entreprise(id_entreprise),
 	foreign key (matricule_etudiant) references etudiant(matricule),
 	foreign key (date_debut) references stage_1(date_debut),
-	primary key (id_entreprise, matricule_etudiant, date_debut),
+	primary key (id_entreprise, matricule_etudiant, date_debut, date_visite),
 	constraint check_date check(date_visite >= date_debut and date_visite <= date_fin)
 );
 
